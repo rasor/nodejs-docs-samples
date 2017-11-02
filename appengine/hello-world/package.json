@@ -30,7 +30,7 @@
   "cloud-repo-tools": {
     "test": {
       "app": {
-        "msg": "Hello, world!"
+        "msg": "Hello, CPH!"
       }
     },
     "requiresKeyFile": true,
